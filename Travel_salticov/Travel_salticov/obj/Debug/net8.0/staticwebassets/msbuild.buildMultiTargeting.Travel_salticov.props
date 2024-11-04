@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Travel_salticov.props" />
+</Project>
