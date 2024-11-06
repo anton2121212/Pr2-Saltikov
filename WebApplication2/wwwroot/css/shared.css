@@ -20,7 +20,7 @@ body {
     align-items: center;
 }
 
-logo{
+.logo{
     align-items:baseline;
     display: inline-flex;
     font-size: 15px;
@@ -29,10 +29,12 @@ logo{
     color: #0c0e10;
 }
 
-img-header {
+.img-header {
     width: 850px;
     height: 350px;
     margin-top: 20px;
+
+   
 }
 
 #header-top{
@@ -50,18 +52,18 @@ img-header {
 #header-botton{
     position: sticky;
     top: 0;
-    padding: 25px 0;
-    width: 50%;
+    padding: 30px 0;
+    width: 70%;
     z-index: 1000;
 }
 
 
-button-header{
+.button-header{
     display: flex;
     align-items: center;
 }
 
-button-header .button{
+.button-header .button{
     border: 2px solid #370b0b;
     background-color: transparent;
     padding: 7px 14px;
@@ -101,3 +103,33 @@ button-header .button{
 .menu a:hover {
     color: #000;
 }
+
+.container {
+    width: 82 %;
+    border: 2px solid #cacaca;
+    border - radius: 3px;
+    box - shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.container-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin_bottom: 20px;
+    margin: 40px
+}
+
+.info-sections {
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #370b0b;
+}
+
+.text {
+    text-indent: 40px;
+    margin: 5px;
+    text-align: justify;
+    font-size: 20px;
+    color: #370b0b;
+}
+

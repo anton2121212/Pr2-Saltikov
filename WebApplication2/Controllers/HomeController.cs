@@ -27,7 +27,10 @@ namespace WebApplication2.Controllers
         {
             return View();
         }
-
+        public IActionResult SiteInformation()
+        {
+            return View();
+        }
         
     }
 }
