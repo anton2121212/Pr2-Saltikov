@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "WebApplication2/1.0.0": {
         "dependencies": {
+          "Microsoft.TypeScript.MSBuild": "5.6.2",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -324,6 +325,7 @@
           "WebApplication2.dll": {}
         }
       },
+      "Microsoft.TypeScript.MSBuild/5.6.2": {},
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2029,6 +2031,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.TypeScript.MSBuild/5.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m/TlGozN5VUiGhwHJwigdGGHorffU/3dadJ/Tf3iMVwcy7wBSdPFLcGA4hpruFAtDs1f9x3Fu+OgAbkJW0YYIA==",
+      "path": "microsoft.typescript.msbuild/5.6.2",
+      "hashPath": "microsoft.typescript.msbuild.5.6.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

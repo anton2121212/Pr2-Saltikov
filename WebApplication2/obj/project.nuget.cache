@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rgaID+cXWi7Au33SvEym7Ma8pT9ZUk5ToM8+XL1m3Yq3jQvk3hH68PhQCm6DPaEA4FoNhnlAGjojpXa19gJHag==",
+  "dgSpecHash": "M4xNWbhKlz8xCmgsQn5U0i+oVu/KEKP5T6DbLe7Sq4SxSS9EZStLXfAn/IK5s++fW4y+hLbhU+5HH2ndAuS37w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kab-35-17\\Desktop\\WebApplication2\\WebApplication2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kab-35-17\\Desktop\\11.11\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kab-35-17\\.nuget\\packages\\microsoft.typescript.msbuild\\5.6.2\\microsoft.typescript.msbuild.5.6.2.nupkg.sha512"
+  ],
   "logs": []
 }
